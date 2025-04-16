@@ -1,4 +1,4 @@
-const { default: makeWASocket, useSingleFileAuthState } = require('@whiskeysockets/baileys')
+const { default: makeWASocket, useSingleFileAuthState } = require('baileys')
 const P = require('pino')
 const fs = require('fs')
 
